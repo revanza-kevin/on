@@ -1,0 +1,32 @@
+[
+  {
+    "foto": "assets/gallery/olahraga1.jpg",
+    "judul": "badminton bersama",
+    "kategori": "Olah Raga"
+  },
+  {
+    "foto": "assets/gallery/olahraga2.jpg",
+    "judul": "badminton bersama",
+    "kategori": "Olah Raga"
+  },
+  {
+    "foto": "assets/gallery/olahraga3.jpg",
+    "judul": "badminton bersama",
+    "kategori": "Olah Raga"
+  },
+  {
+    "foto": "assets/gallery/smart-education.jpg",
+    "judul": "Smart Education",
+    "kategori": "Pendidikan"
+  },
+  {
+    "foto": "assets/gallery/keagamaan.jpg",
+    "judul": "Kajian & Keagamaan",
+    "kategori": "Keagamaan"
+  },
+  {
+    "foto": "assets/gallery/kegiatan1.jpg",
+    "judul": "Kerja Bakti Lingkungan",
+    "kategori": "Sosial"
+  }
+]
